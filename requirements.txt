@@ -1,6 +1,6 @@
 streamlit
 langchain
-faiss-cpu==1.7.4
+faiss-cpu
 pypdf
 sentence-transformers
 google-generativeai
@@ -8,5 +8,5 @@ python-dotenv
 gtts
 langchain-community
 langchain-core
-httpx==0.27.0
+httpx
 graphviz
